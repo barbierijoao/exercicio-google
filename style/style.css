@@ -36,7 +36,7 @@ ul, a {
   align-items: center;
   justify-content: flex-end;
   padding: 20px;
-  gap: 30px;
+  gap: 50px;
 }
 .container header .navigation .nav-menu {
   display: flex;
