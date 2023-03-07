@@ -70,6 +70,7 @@ ul, a {
 }
 .container header .icons .perfil h1 {
   font-size: 23px;
+  font-weight: 200;
   color: var(--white);
 }
 .container .search {
